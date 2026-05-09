@@ -4,7 +4,6 @@ Objetivos:
 
 Análise dos dados relevantes em torno da saúde pública em São Paulo, com o objetivo de reforçar a necessidade de introduzir um estudo, por região,  para a definição dos percentuais de vagas reservadas para o atendimento, em atenção básica, para gestantes e recém nascidos, a partir do evidenciamento do 'desperdício' das vagas médicas garantidas por diretrizes, que contrasta com a precariedade da disponibilidade de vagas para atenção básica.
 
-==============================
 
 Translation:
 
