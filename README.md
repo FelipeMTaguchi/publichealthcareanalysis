@@ -1,7 +1,15 @@
 analise_saude_SP
 ==============================
+Objetivos:
 
-Análise dos dados relevantes em torno da saúde pública em São Paulo
+Análise dos dados relevantes em torno da saúde pública em São Paulo, com o objetivo de reforçar a necessidade de introduzir um estudo, por região,  para a definição dos percentuais de vagas reservadas para o atendimento, em atenção básica, para gestantes e recém nascidos, a partir do evidenciamento do 'desperdício' das vagas médicas garantidas por diretrizes, que contrasta com a precariedade da disponibilidade de vagas para atenção básica.
+
+==============================
+Translation:
+
+Analysis of relevant public health data in São Paulo, aimed at reinforcing the need to implement a region-based study to define percentages of reserved primary care slots for pregnant women and newborns. This study highlights the "wastage" of medical appointments mandated by guidelines, which stands in stark contrast to the scarcity of available slots for primary care.
+
+
 
 Project Organization
 ------------
