@@ -2,13 +2,13 @@ analise_saude_SP
 ==============================
 Objetivos:
 
-Análise dos dados relevantes em torno da saúde pública em São Paulo, com o objetivo de reforçar a necessidade de introduzir um estudo, por região,  para a definição dos percentuais de vagas reservadas para o atendimento, em atenção básica, para gestantes e recém nascidos, a partir do evidenciamento do 'desperdício' das vagas médicas garantidas por diretrizes, que contrasta com a precariedade da disponibilidade de vagas para atenção básica.
+Análise dos dados relevantes em torno da saúde pública na atenção básica da cidade de São Paulo, com o objetivo de reforçar a necessidade de aumentar o tempo de consulta, para que o atendimento básico ganhe novos contornos e deixe para trás a característica de "fast-food", além de estabelecer se essa alteração é ou não sustentável a partir da relação entre médicos por habitantes na cidade.
 
 
 Translation:
 
-Analysis of relevant public health data in São Paulo, aimed at reinforcing the need to implement a region-based study to define percentages of reserved primary care slots for pregnant women and newborns. This study highlights the "wastage" of medical appointments mandated by guidelines, which stands in stark contrast to the scarcity of available slots for primary care.
 
+Analysis of public health data in São Paulo’s primary care, aiming to support the need for increased consultation length to reshape basic care and move away from the 'fast-food medicine' model. Furthermore, it assesses the sustainability of this change based on the physician-to-inhabitant ratio in the city.
 
 
 Project Organization
