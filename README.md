@@ -1,15 +1,25 @@
-analise_saude_SP
-==============================
-Objetivos:
+# Analise Saude SP: Redesenhando a Atenção Básica de São Paulo 🏥
 
-Análise dos dados relevantes em torno da saúde pública na atenção básica da cidade de São Paulo, com o objetivo de reforçar a necessidade de aumentar o tempo de consulta, para que o atendimento básico ganhe novos contornos e deixe para trás a característica de "fast-food", além de estabelecer se essa alteração é ou não sustentável a partir da relação entre médicos por habitantes na cidade.
+[![Python](https://shields.io)](https://python.org)
+[![Pandas](https://shields.io)](https://pydata.org)
+[![Streamlit](https://shields.io)](https://streamlit.io)
 
+## 📝 O Problema:
 
-Translation:
+A base regulatória nacional para a atenção básica estabelece a configuração das agendas médicas no formato de **4 consultas por hora (15 minutos por vaga)**. Essa métrica puramente quantitativa gera um ciclo de baixa resolutividade: o retorno constante de pacientes com queixas não sanadas e o aumento direto do risco assistencial. 
 
+Pesquisas globais, como a publicada na revista científica **BMJ Open**, comprovam que um menor tempo de consulta ambulatorial se traduz em maiores taxas de internação hospitalar por condições sensíveis à atenção primária (como complicações controláveis de diabetes e hipertensão). 
 
-Analysis of public health data in São Paulo’s primary care, aiming to support the need for increased consultation length to reshape basic care and move away from the 'fast-food medicine' model. Furthermore, it assesses the sustainability of this change based on the physician-to-inhabitant ratio in the city.
+Em contrapartida, a **Organização Mundial da Saúde (OMS)** e a **Organização para a Cooperação e Desenvolvimento Econômico (OCDE)** apontam de forma consistente que sistemas públicos de saúde de excelência correlacionam maior densidade médica com consultas mais longas e menor taxa de hospitalizações desnecessárias.
 
+### O Contexto Operacional de São Paulo
+O problema central que contribui para a precarização da saúde pública na atenção básica da capital paulista é o **baixo indicador de médicos por habitante, concentrado sobretudo nas regiões periféricas**. 
+
+Para evitar penalidades contratuais e descontos nos repasses financeiros feitos pela Secretaria Municipal da Saúde (SMS), as Organizações Sociais de Saúde (OSS) — empresas terceirizadas que gerenciam as unidades — forçam a atenção básica a operar sob uma lógica industrial. O foco passa a ser o atendimento em massa para o cumprimento estrito de metas de produção, atropelando métricas cruciais de qualidade, como a resolutividade e o tempo de escuta qualificada.
+
+**Este projeto demonstra que o redesenho da densidade de médicos por habitante não é apenas um ganho laboral para a categoria, mas a chave regulatória indispensável para alinhar o SUS paulistano aos padrões de excelência recomendados pela OMS.**
+
+---
 
 Project Organization
 ------------
